@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PersonalLibraryManager.Tests/PersonalLibraryManager.Tests.csproj" />
+  <Project Path="PersonalLibraryManager.Wpf/PersonalLibraryManager.Wpf.csproj" />
+</Solution>
