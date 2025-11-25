@@ -28,5 +28,5 @@ WPF-приложение для управления личной библиот
 - Валидатор (`BookValidator`)
 - ViewModel (`MainViewModel`, `AddEditBookViewModel`)
 Запуск:
-- В Visual Studio: Test → Run All Tests
-- Правой кнопкой мыши по проекту PersonalLibraryManager.Tests → Выполнить тесты
+- В Visual Studio: Тест → Запуск всех тестов
+- Правой кнопкой мыши по проекту `PersonalLibraryManager.Tests` → Выполнить тесты
